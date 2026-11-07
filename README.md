@@ -116,38 +116,27 @@ A Windows AI companion with a witty, anime-inspired personality. Built to make A
 ---
 
 ## `05 / along the clock`
+<<h2>🎧 Featured track</h2>
 
-### 🎧 Featured track
-
-<div align="center">
-
-  <h3>🎧 Featured track</h3>
-
-  <div class="featured-track">
-
+<p align="center">
+  <a href="https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b"
+     target="_blank">
     <img
       src="assets/featured-track.png"
       width="100%"
       alt="Masterpiece — LNGSHOT"
-      style="border-radius: 12px; display: block;"
     />
+  </a>
+</p>
 
-    <iframe
-      src="https://open.spotify.com/embed/track/3h0ghWPVT1SzCgZnHPqp8b?utm_source=generator"
-      width="100%"
-      height="152"
-      frameborder="0"
-      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-      loading="lazy">
-    </iframe>
-
-  </div>
-
+<p align="center">
   <sub>
-    <strong>Masterpiece</strong> · LNGSHOT · made for the playlist ♡
+    <strong>Masterpiece</strong> · LNGSHOT ·
+    <a href="https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b">
+      listen on Spotify ↗
+    </a>
   </sub>
-
-</div>
+</p>
 
 ---
 
