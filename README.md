@@ -142,8 +142,9 @@ A Windows AI companion with a witty, anime-inspired personality. Built to make A
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=saisindhuja-code&color=cbb8ff&style=flat-square&label=profile+views" alt="Profile views" />
+<a href="https://github.com/saisindhuja-code" target="_blank" rel="noopener noreferrer">
+  <img src="https://komarev.com/ghpvc/?username=saisindhuja-code&color=cbb8ff&style=flat-square&label=profile+views" alt="Profile views" />
+</a>
 
 </div>
-
 
