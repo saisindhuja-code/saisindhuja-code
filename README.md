@@ -121,20 +121,30 @@ A Windows AI companion with a witty, anime-inspired personality. Built to make A
 
 <div align="center">
 
+  <h3>🎧 Featured track</h3>
+
   <div class="featured-track">
+
+    <img
+      src="assets/featured-track.png"
+      width="100%"
+      alt="Masterpiece — LNGSHOT"
+      style="border-radius: 12px; display: block;"
+    />
+
     <iframe
-      src="https://open.spotify.com/embed/track/3h0ghWPVT1SzCgZnHPqp8b"
+      src="https://open.spotify.com/embed/track/3h0ghWPVT1SzCgZnHPqp8b?utm_source=generator"
       width="100%"
       height="152"
       frameborder="0"
       allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-      loading="lazy"
-      allowfullscreen>
+      loading="lazy">
     </iframe>
+
   </div>
 
   <sub>
-    <strong>Masterpiece</strong> · LNGSHOT · click to listen ♡
+    <strong>Masterpiece</strong> · LNGSHOT · made for the playlist ♡
   </sub>
 
 </div>
