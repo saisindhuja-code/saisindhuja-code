@@ -73,7 +73,9 @@ A creative coding project that transforms personalized ideas into beautiful flor
 
 **Stack:** `Python` `Turtle` `HTML` `CSS` `JavaScript` `OpenCV` `MediaPipe`
 
-> [Explore Bloom](https://project-bloom-delta.vercel.app/)
+<a href="https://project-bloom-delta.vercel.app/" target="_blank" rel="noopener noreferrer">
+  Explore Bloom ↗
+</a>
 
 ### ✦ Aster
 
@@ -119,13 +121,16 @@ A Windows AI companion with a witty, anime-inspired personality. Built to make A
 
 <div align="center">
 
-<a href="https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b?si=e522c442a4824e02">
-  <img
-    src="./assets/featured-track.png"
-    alt="Featured track: Masterpiece by LNGSHOT"
+<div class="featured-track">
+  <iframe
+    src="https://open.spotify.com/embed/track/3h0ghWPVT1SzCgZnHPqp8b?utm_source=generator"
     width="100%"
-  />
-</a>
+    height="152"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+</div>
 
   
 
