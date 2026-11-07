@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" alt="Aesthetic developer banner" width="100%" />
+<img src="./assets/github-banner.png" alt=" developer banner" width="100%" />
 
 <br />
 
@@ -25,7 +25,7 @@
 ```yaml
 name: Sindhuja Marubothula
 location: Hyderabad, Telangana, India
-role: CSE Student at KMIT | Aspiring AI Engineer
+role: CSE Student at KMIT |DSA Student at IITM| Aspiring AI Engineer
 currently_learning: Python, C++, Machine Learning, Web Development
 currently_building: AI-powered applications, creative coding projects, and interactive desktop tools
 ```
@@ -73,7 +73,7 @@ A creative coding project that transforms personalized ideas into beautiful flor
 
 **Stack:** `Python` `Turtle` `HTML` `CSS` `JavaScript` `OpenCV` `MediaPipe`
 
-> Link coming soon
+> [Explore Bloom](https://project-bloom-delta.vercel.app/)
 
 ### ✦ Aster
 
@@ -81,15 +81,11 @@ A Windows AI companion with a witty, anime-inspired personality. Built to make A
 
 **Stack:** `Python` `Groq API` `Qwen` `Windows`
 
-> Link coming soon
 
-### ◌ AirWrite
 
-A computer vision project that explores air-writing through hand movements, creating an interactive writing experience.
 
-**Stack:** `Python` `OpenCV` `MediaPipe`
 
-> Link coming soon
+
 
 ---
 
@@ -117,18 +113,28 @@ A computer vision project that explores air-writing through hand movements, crea
 
 ---
 
-## `05 / github activity`
+## `05 / along the clock`
+
+### 🎧 Featured track
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saisindhuja-code&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=d8c7ff&text_color=c9bfd8&icon_color=f0b6d6&ring_color=cbb8ff" height="165" alt="Sindhuja's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisindhuja-code&layout=compact&hide_border=true&bg_color=0d0b14&title_color=d8c7ff&text_color=c9bfd8" height="165" alt="Sindhuja's most used languages" />
+<a href="https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b?si=e522c442a4824e02">
+  <img
+    src="./assets/featured-track.png"
+    alt="Featured track: Masterpiece by LNGSHOT"
+    width="100%"
+  />
+</a>
+
+  
+
+
+<sub><strong>Masterpiece</strong> · LNGSHOT · click the card to listen on Spotify</sub>
 
 </div>
 
 ---
-
-<div align="center">
 
 ### `let’s build something meaningful.`
 
@@ -140,11 +146,4 @@ A computer vision project that explores air-writing through hand movements, crea
 
 </div>
 
-<!--
-  Profile setup:
-  1. Create a public repository named exactly: saisindhuja-code
-  2. Upload this README.md to the repository root.
-  3. Upload assets/github-banner.png to the assets folder.
-  4. Add project links when Bloom, Aster, and AirWrite are published.
-  5. Pin your strongest repositories on your GitHub profile.
--->
+
