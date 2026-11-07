@@ -139,20 +139,6 @@ A Windows AI companion with a witty, anime-inspired personality. Built to make A
 
 </div>
 
-<p align="center">
-  <sub>
-    Masterpiece · LNGSHOT · click the card to listen on Spotify
-  </sub>
-</p>
-
-<p align="center">
-  <sub>
-    Masterpiece · LNGSHOT · click the card to listen
-  </sub>
-</p>
-
-</div>
-
 ---
 
 ### `let’s build something meaningful.`
