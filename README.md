@@ -116,7 +116,7 @@ A Windows AI companion with a witty, anime-inspired personality. Built to make A
 ---
 
 ## `05 / along the clock`
-<<h2>🎧 Featured track</h2>
+<h2>🎧 Featured track</h2>
 
 <p align="center">
   <a href="https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b"
