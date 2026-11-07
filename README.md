@@ -119,23 +119,23 @@ A Windows AI companion with a witty, anime-inspired personality. Built to make A
 
 ### 🎧 Featured track
 
-<div align="center">
+<p align="center">
+  <a href="https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      src="https://aren-radio-aren-radio.vercel.app/api/card?track=masterpiece"
+      width="100%"
+      alt="Masterpiece by LNGSHOT"
+    />
+  </a>
+</p>
 
-<div class="featured-track">
-  <iframe
-    src="https://open.spotify.com/embed/track/3h0ghWPVT1SzCgZnHPqp8b?utm_source=generator"
-    width="100%"
-    height="152"
-    frameborder="0"
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-    loading="lazy">
-  </iframe>
-</div>
-
-  
-
-
-<sub><strong>Masterpiece</strong> · LNGSHOT · click the card to listen on Spotify</sub>
+<p align="center">
+  <sub>
+    Masterpiece · LNGSHOT · click the card to listen
+  </sub>
+</p>
 
 </div>
 
